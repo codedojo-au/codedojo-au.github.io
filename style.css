@@ -1,0 +1,66 @@
+h1 {
+  font-family: "Merriweather", serif;
+}
+
+h2 {
+  color: #0d9e4e;
+}
+
+i {
+  color: #0d9e4e;
+  font-size: 50px;
+}
+
+.card-white {
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0 0px 30px rgba(0, 0, 0, .2);
+  text-align: center;
+  padding: 20px;
+  margin: 20px 0;
+  /* width: 300px;
+  margin 0 auto; */
+}
+
+.img-circle{
+  border-radius: 50%;
+}
+
+.list-inline{
+  padding: 0;
+}
+
+.list-inline > li{
+  display: inline;
+}
+
+.btn-blue {
+  background-color: lightblue;
+  color: white;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+}
+
+.btn-blue:hover {
+  background-color: #00a59b;
+}
+
+.container{
+  width: 700px;
+  margin: 0 auto;
+}
+
+/*
+p {
+  width: 50px;
+}
+
+p {
+  width: 50%;
+}
+
+p {
+  width: 1em;
+} */
+
