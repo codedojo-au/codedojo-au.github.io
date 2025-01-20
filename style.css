@@ -11,6 +11,10 @@ i {
   font-size: 50px;
 }
 
+i:hover {
+  color: black;
+}
+
 .card-white {
   background-color: white;
   border-radius: 4px;
@@ -24,6 +28,9 @@ i {
 
 .img-circle{
   border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: none;
 }
 
 .list-inline{
